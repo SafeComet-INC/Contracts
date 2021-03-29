@@ -15,7 +15,7 @@
 // Community driven & fair launch. 
 // 
 // Telegram: https://t.me/SafeComet
-//
+// Github: https://github.com/SafeComet-INC
 // Website: http://SafeComet.xyz
 // ---------------------------------------------------------------------------------------------------------------------
 
